@@ -18,12 +18,11 @@ Inside navigate to project directory
       cd documentsimilaritysearch
 
 
-      
-Navigate to  project folder
-                    cd documentsimilaritysearch
 
-Install required packages
-                    pip install -r requirements.txt
+
+Install dependencies
+  
+      pip install -r requirements.txt
 
 run streamlit UI
 
