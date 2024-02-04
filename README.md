@@ -13,7 +13,7 @@ Inside virtual environment clone the repository
       git clone https://github.com/Derngineer/documentsimilaritysearch/
 
 install dependencies
-
+        cd documentsimilaritysearch
       pip install -r requirements.txt
 
 run streamlit UI
