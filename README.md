@@ -11,6 +11,14 @@ activate virtual environment
 Inside virtual environment clone the repository
   
       git clone https://github.com/Derngineer/documentsimilaritysearch/
+
+
+Inside navigate to project directory
+  
+      cd documentsimilaritysearch
+
+
+      
 Navigate to  project folder
                     cd documentsimilaritysearch
 
