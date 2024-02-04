@@ -11,10 +11,11 @@ activate virtual environment
 Inside virtual environment clone the repository
   
       git clone https://github.com/Derngineer/documentsimilaritysearch/
+Navigate to  project folder
+        cd documentsimilaritysearch
 
-install dependencies inside project folder
-    cd documentsimilaritysearch
-    pip install -r requirements.txt
+Install required packages
+        pip install -r requirements.txt
 
 run streamlit UI
 
